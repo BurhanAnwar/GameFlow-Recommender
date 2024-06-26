@@ -35,9 +35,9 @@ To ensure accessibility and ease of use, the project incorporates a user-friendl
 
 ## Data Visualization:
 This plays a crucial role in clarifying insights from the dataset and evaluating model performance. Through box graphs, bar graphs, and histograms, we visualizes various aspects of the dataset and evaluates model performance.
-![Screenshot 2024-05-04 185832](https://github.com/ZahraHussain6/Artificial_intelligence/assets/113838030/dc564d05-1343-4fb4-9372-e9e82c903874)
-![Screenshot 2024-05-04 185859](https://github.com/ZahraHussain6/Artificial_intelligence/assets/113838030/0cb70d15-34de-4f3e-9318-a7130cd79587)
-![Screenshot 2024-05-04 185913](https://github.com/ZahraHussain6/Artificial_intelligence/assets/113838030/80c889cf-723d-4f47-931c-d44a4c4f74c3)
+![ss1](https://github.com/BurhanAnwar/GameFlow-Recommender/assets/113848585/1d8065c2-43c7-4583-b0a7-a06b40415fca)
+![ss2](https://github.com/BurhanAnwar/GameFlow-Recommender/assets/113848585/24068aa1-820b-4bae-b491-d0e8d669af67)
+![ss3](https://github.com/BurhanAnwar/GameFlow-Recommender/assets/113848585/3449414a-7ba1-4448-b91d-62bc4263459c)
 
 ## Machine Learning Models:
 In addition to content-based filtering, this project explores the application of machine learning models such as logistic regression and random forest to further enhance recommendation accuracy. By comparing the performance of these models against the content-based approach, we gain deeper insights into the efficiency of different algorithms 
